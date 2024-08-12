@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JonataB
-- 👀 I’m interested in C#, Javascript, CSS, Nodejs, Vue, Angular, Xamarin, SQL
+- 👋 Hi, I’m Jonata Biondi 
+- 👀 I’m interested in C#, Javascript, CSS, Nodejs, Vue, Angular, Xamarin, SQL, React, Ionic
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jonata.biondi@gmail.com
